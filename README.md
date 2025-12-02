@@ -3,10 +3,10 @@
 
 A modern machine learning application that detects Fake News vs Real News using Natural Language Processing (NLP) and a clean, beautiful Streamlit interface.
 
-This project uses:<br>
-TF-IDF Vectorization<br>
-Logistic Regression Classifier<br>
-NLP Preprocessing<br>
+- This project uses:<br>
+- TF-IDF Vectorization<br>
+- Logistic Regression Classifier<br>
+- NLP Preprocessing<br>
 
 Streamlit Web App
 
@@ -69,21 +69,23 @@ We will embed a gauge using Plotly, because it supports color zones + semi-circu
 Img:
 
 <img width="1919" height="915" alt="Image" src="https://github.com/user-attachments/assets/c149da8b-f064-4661-b1ea-4823c63a065f" />
-<br>
+<br><br>
+- Entering NewsHeadlines
+<br><br>
 <img width="1919" height="924" alt="Image" src="https://github.com/user-attachments/assets/1aaf6bbb-3b5d-4e6c-aac6-ed811761270a" />
-<br>
+<br><br>
 - Using Plotly library
-<br>
+<br><br>
 <img width="1567" height="703" alt="Image" src="https://github.com/user-attachments/assets/3f3e21bb-3aea-44a0-9fe4-8b0fbdcc8647" />
-<br>
+<br><br>
 - Using WorldCloud
-<br>
+<br><br>
 <img width="1598" height="800" alt="Image" src="https://github.com/user-attachments/assets/dee09a19-8f39-4c64-ad76-ade677525736" />
-<br>
+<br><br>
 -Using Plotly library
-<br>
+<br><br>
 <img width="1555" height="663" alt="Image" src="https://github.com/user-attachments/assets/982a5e2c-f1f1-433c-8f48-850bca4bbb3e" />
-
+<br><br>
 
 🔥 So what do you do tomorrow?
 
