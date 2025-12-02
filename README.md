@@ -3,67 +3,67 @@
 
 A modern machine learning application that detects Fake News vs Real News using Natural Language Processing (NLP) and a clean, beautiful Streamlit interface.
 
-This project uses:
-TF-IDF Vectorization
-Logistic Regression Classifier
-NLP Preprocessing
+This project uses:<br>
+TF-IDF Vectorization<br>
+Logistic Regression Classifier<br>
+NLP Preprocessing<br>
 
 Streamlit Web App
 
 🌟 Features
 
-✔ High Accuracy Model
-✔ Beautiful Modern UI
-✔ Real-time Text Prediction
-✔ TF-IDF text vectorization
-✔ Clean Code Structure
-✔ Fast & Lightweight
-✔ Beginner-friendly ML pipeline
+✔ High Accuracy Model<br>
+✔ Beautiful Modern UI<br>
+✔ Real-time Text Prediction<br>
+✔ TF-IDF text vectorization<br>
+✔ Clean Code Structure<br>
+✔ Fast & Lightweight<br>
+✔ Beginner-friendly ML pipeline<br>
 
 📂 Project Structure
 
 fake-news-project/
 │
-├── data/
-│   ├── Fake.csv
-│   ├── True.csv
+├── data/<br>
+│   ├── Fake.csv<br>
+│   ├── True.csv<br>
 │
-├── models/
-│   ├── model.pkl
-│   ├── tfidf.pkl
+├── models/<br>
+│   ├── model.pkl<br>
+│   ├── tfidf.pkl<br>
 │
-├── src/
-│   ├── train.py
-│   ├── predict.py
-│   ├── app.py     # Streamlit UI
+├── src/<br>
+│   ├── train.py<br>
+│   ├── predict.py<br>
+│   ├── app.py     # Streamlit UI<br>
 │
-├── venv/
+├── venv/<br>
 │
-├── requirements.txt
-└── README.md
+├── requirements.txt<br>
+└── README.md<br>
 
 
 🧠 How the Model Works
-
-Loads True and Fake news datasets
-Performs text preprocessing
-Converts text into numerical vectors using TF-IDF
-Trains a Logistic Regression classifier
-Saves trained model as model.pkl
-Saved vectorizer as tfidf.pkl
-predict.py and the Streamlit app use the model to classify new text
+<br><br>
+Loads True and Fake news datasets<br>
+Performs text preprocessing<br>
+Converts text into numerical vectors using TF-IDF<br>
+Trains a Logistic Regression classifier<br>
+Saves trained model as model.pkl<br>
+Saved vectorizer as tfidf.pkl<br>
+predict.py and the Streamlit app use the model to classify new text<br>
 
 
 ✨ Technologies Used
 
-Python
-Streamlit
-Scikit-learn
-Pandas
-NumPy
-Pickle
-NLP / TF-IDF
-
+Python<br>
+Streamlit<br>
+Scikit-learn<br>
+Pandas<br>
+NumPy<br>
+Pickle<br>
+NLP / TF-IDF<br>
+<br>
 We will embed a gauge using Plotly, because it supports color zones + semi-circular meter like the image.
 
 
